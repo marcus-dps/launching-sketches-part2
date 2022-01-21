@@ -55,7 +55,7 @@ export default function App() {
           element={
             <Screen image="/Input.jpg" back="/intro-1">
               <Button to="/" x="35" y="420" w="150" h="55" />
-              <Button to="/intro-3" x="185" y="420" w="150" h="55" />
+              <Button to="/intro-3" x="195" y="420" w="150" h="55" />
             </Screen>
           }
         />
